@@ -23,12 +23,12 @@ Currently researching for Master's thesis at Simon Fraser University
 Learning from Indigenous practices of sea garden management to inform Social-Ecological Resilience of modern coastal ecosystems
 -----
 Collaborating with Indigenous practitioners and researchers across the Pacific Ocean in a working group to connect, map and understant traditional practices and fisheries management.
-![](/images/clamgarden6.jpg)
+![](/images/clamgarden3.jpg)
 
 How does host evolutionary history, climate, and lake characteristics impact parasitism of dragonflies and damselflies?
 -----
 Revising manuscript for Journal of Animal Ecology
-![](/images/odemite3.jpg)
+![](/images/odemite3.jpeg)
   
 Can humans and mammals share highway underpasses?
 -----
