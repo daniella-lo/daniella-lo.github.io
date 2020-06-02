@@ -20,12 +20,15 @@ Under what conditions are estuaries important for juvenile salmon performance an
 Currently researching for Master's thesis at Simon Fraser University
 ![](/images/profile.jpg)
 
-
+Learning from Indigenous practices of sea garden management to inform Social-Ecological Resilience of modern coastal ecosystems
+-----
+Collaborating with Indigenous practitioners and researchers across the Pacific Ocean in a working group to connect, map and understant traditional practices and fisheries management.
+![](/images/clamgarden6.jpg)
 
 How does host evolutionary history, climate, and lake characteristics impact parasitism of dragonflies and damselflies?
 -----
-Journal of Animal Ecology, in revision
-![](/images/odemite1.jpg)
+Revising manuscript for Journal of Animal Ecology
+![](/images/odemite3.jpg)
   
 Can humans and mammals share highway underpasses?
 -----
