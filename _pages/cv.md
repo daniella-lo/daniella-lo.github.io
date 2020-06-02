@@ -19,6 +19,7 @@ Education
 
 Research experience
 ======
+
 Sockeye Estuary Energetics, Sept. 2018 - present
 ------
   * D. Patterson, Dr. J. Moore, Simon Fraser University, BC
@@ -82,6 +83,7 @@ Community Engagement
 
 Skills
 ======
+
 Languages
 ------
   * Fluent in French and English, oral and written
