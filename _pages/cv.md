@@ -32,12 +32,12 @@ Research experience
 * Biogeography of Odonate Parasitism, 2016 - 2018
   * Dr. J.P. Lessard, Concordia University, QC
   * During my honor’s thesis, I examined how parasitism of dragonfly and damselfly communities is constrained by host evolutionary history, lake vegetation, and climatic variables.
-![](/images/odemite3.jpg)
+![](/images/odemite3.jpeg)
 
 * Human Impacts on Mammal Use of Highway Underpasses, 2016 - 2017
   * Dr. J. Jaeger, Concordia University 
   * In collaboration with the Ministry of Transport of Quebec and Corridor Appalachian, I led a research project monitoring mammal use of underpasses below a high traffic highway bisecting the essential wildlife corridor of the Northern Appalachian region, QC.
-![](/images/mammalcorridor4.jpg)
+![](/images/mammalcorridor4.JPG)
 
 * Immunology of Nanoparticle Pollution, 2015
   * Dr. P. Darlington, Concordia University                   
@@ -94,8 +94,8 @@ Skills
   *	CPR-C and Wilderness First Aid, certified March 2019
   * PADI Open Water, dry suit, certified Jan. 2020
   ![](/images/clamgarden1.jpg)
-  ![](/images/odemite4.jpg)
-  ![](/images/salmonecol1.jpg)
+  ![](/images/odemite4.jpeg)
+  ![](/images/salmonecol4.jpg)
 *	Transportation
   * Class 5 Driver’s License, 2012
   * Pleasure Craft Operator, 2009
