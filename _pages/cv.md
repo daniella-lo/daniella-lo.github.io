@@ -24,7 +24,7 @@ Sockeye Estuary Energetics, Sept. 2018 - present
 ------
   * D. Patterson, Dr. J. Moore, Simon Fraser University, BC
   * For my Master’s thesis, I am researching how the physiological condition of sockeye salmon smolts impacts swim ability and habitat selection throughout the downstream migration corridor, from lake to estuary to ocean. 
-![](/images/salmonecol1.jpg|width=100){: .align-left}
+![](/images/salmonecol1.jpg){:height="50%" width="50%"}
   
 Social-Ecological Resilience of Pacific Sea Gardens, Jan. 2020 - present
 ------
