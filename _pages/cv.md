@@ -24,7 +24,7 @@ Sockeye Estuary Energetics, Sept. 2018 - present
 ------
   * D. Patterson, Dr. J. Moore, Simon Fraser University, BC
   * For my Master’s thesis, I am researching how the physiological condition of sockeye salmon smolts impacts swim ability and habitat selection throughout the downstream migration corridor, from lake to estuary to ocean. 
-![](/images/salmonecol1.jpg){:height="50%" width="50%"}
+![](/images/salmonecol1.jpg){:height="50%" width="50%" .align-left}
   
 Social-Ecological Resilience of Pacific Sea Gardens, Jan. 2020 - present
 ------
@@ -75,7 +75,7 @@ Community Engagement
 * Vancouver Farmers Market, Vancouver, BC, Present
   * To help with access to local food sources and supporting local farmers during the COVID-19 pandemic, I began volunteering weekly with the VFM.
 * QUEST Food Exchange, Vancouver, BC, 2020
-  * The VFM provides access to local healthy food, however it is still inaccessible to low income families and individuals.  To better understand and support those in need, I began volunteering weekly for QUEST, a not-for-profit organization that provides dignified access to a variety of affordable and healthy foods to individuals facing food security challenges in British Columbia. 
+  * QUEST is a not-for-profit organization that provides dignified access to a variety of affordable and healthy foods to individuals facing food security challenges in British Columbia. 
 * Clam Garden Restoration Project, Gulf Islands National Park, Saanich, BC, 2019
   * Through a collaboration between Gulf Islands National Park, Simon Fraser University & the Hulqu’im’inum Working Group, I assisted in restoration of traditional clam gardens throughout the Gulf Islands, as well as identification of bivalves, algae and intertidal invertebrates for ongoing biological monitoring. 
 * Invasive Freshwater Invertebrates, Dr. Ricciardi, McGill University, QC, 2017
