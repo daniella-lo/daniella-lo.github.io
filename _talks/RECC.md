@@ -28,3 +28,8 @@ varied depending on structure type and by species of mammal. Recommendations to
 increase the use of all underpasses by wildlife include addition of a dry pathway through
 all culverts, highway fencing along mortality hotspots, and whenever possible, dedicated
 wildlife under/overpasses to increase the permeability of the highway to large mammals.
+
+![](/files/PassagesPoster_EN.pdf)
+
+[Plus d'information ici](http://www.corridorappalachien.ca/en/appalachian-corridor-and-partners-work-to-keep-wildlife-off-the-roads/)
+
