@@ -9,11 +9,13 @@ date: 2017-05-12
 location: "Montreal, QC"
 ---
 
-[Plus d'information ici](https://www.acfas.ca/evenements/congres/programme/85/200/204/c)
-
 Daniella LoScerbo 1 , Caroline Daguet 2 , Jochen A.G. Jaeger 3
 1 Université Concordia, Montréal, QC, Département de biologie
 2 Corridor appalachien, Eastman, QC
 3 Université Concordia, Montréal, QC, Département de géographie, urbanisme et
 environnement
+
+![](/files/PassagesPoster_FR.pdf)
+
+[Plus d'information ici](https://www.acfas.ca/evenements/congres/programme/85/200/204/c)
 
