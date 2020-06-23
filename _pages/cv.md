@@ -22,31 +22,31 @@ Research experience
   
 Sockeye Estuary Energetics, Sept. 2018 - present
 ------
-  * D. Patterson, Dr. J. Moore, Simon Fraser University, BC
+D. Patterson, Dr. J. Moore, Simon Fraser University, BC
   * For my Master’s thesis, I am researching how the physiological condition of sockeye salmon smolts impacts swim ability and habitat selection throughout the downstream migration corridor, from lake to estuary to ocean. 
-![](/images/salmonecol1.jpg){:height="50%" width="50%" .align-left}
+![](/images/salmonecol1.jpg){:height="50%" width="50%"}
   
 Social-Ecological Resilience of Pacific Sea Gardens, Jan. 2020 - present
 ------
-  * Dr. A. Salomon, Simon Fraser University, BC
+Dr. A. Salomon, Simon Fraser University, BC
   * In collaboration with Indigenous practitioners and researchers across the Pacific Ocean, our research group is documenting how traditional management and cultivation of sea gardens has lent to social-ecological resilience of the past and to inform present resource management. 
-![](/images/fishpond.jpg){:height="50%" width="50%" .align-left}
+![](/images/fishpond.jpg){:height="50%" width="50%"}
   
 Biogeography of Odonate Parasitism, 2016 - 2018
 ------
-  * Dr. J.P. Lessard, Concordia University, QC
+Dr. J.P. Lessard, Concordia University, QC
   * During my honor’s thesis, I examined how parasitism of dragonfly and damselfly communities is constrained by host evolutionary history, lake vegetation, and climatic variables.
-![](/images/odemite3.jpeg){:height="50%" width="50%" .align-left}
+![](/images/odemite3.jpeg){:height="50%" width="50%"}
   
 Human Impacts on Mammal Use of Highway Underpasses, 2016 - 2017
 ------
-  * Dr. J. Jaeger, Concordia University 
+Dr. J. Jaeger, Concordia University 
   * In collaboration with the Ministry of Transport of Quebec and Corridor Appalachian, I led a research project monitoring mammal use of underpasses below a high traffic highway bisecting the essential wildlife corridor of the Northern Appalachian region, QC.
-![](/images/mammalcorridor4.JPG){:height="50%" width="50%" .align-left}
+![](/images/mammalcorridor4.JPG){:height="50%" width="50%"}
   
 Immunology of Nanoparticle Pollution, 2015
 ------
-  * Dr. P. Darlington, Concordia University                   
+Dr. P. Darlington, Concordia University                   
   * To investigate the risk of nanoparticle inhalation to human respiratory health, I conducted an experiment on the immunological response of human T cells following the exposure to ceria nanoparticles.
   
 Awards
@@ -105,9 +105,9 @@ Field work
   * Experience and confidence working in remote locations, year round
   *	CPR-C and Wilderness First Aid, certified March 2019
   * PADI Open Water, dry suit, certified Jan. 2020
-  ![](/images/clamgarden1.jpg){:height="50%" width="50%" .align-left}
-  ![](/images/odemite4.jpeg){:height="50%" width="50%" .align-left}
-  ![](/images/salmonecol4.jpg){:height="50%" width="50%" .align-left}
+  ![](/images/clamgarden1.jpg){:height="50%" width="50%"}
+  ![](/images/odemite4.jpeg){:height="50%" width="50%"}
+  ![](/images/salmonecol4.jpg){:height="50%" width="50%"}
   
 Transportation
 ------
@@ -118,8 +118,8 @@ Laboratory analysis
 ------
   * Bio-energetics: Proximate constituent analysis of % lipid, water, carbohydrates and protein
   * Enzyme activation: Assays of salmonid gill Na+ K+ ATPase
-  ![](/images/salmonecol5.jpg){:height="50%" width="50%" .align-left}
-  ![](/images/physiol4.jpg){:height="50%" width="50%" .align-left}
+  ![](/images/salmonecol5.jpg){:height="50%" width="50%"}
+  ![](/images/physiol4.jpg){:height="50%" width="50%"}
   
 Publications
 ======
