@@ -1,10 +1,10 @@
 ---
-title: "Host evolutionary history and local abiotic conditions drive geographic variation in parasite intensity"
+title: "Updating"
 collection: publications
 permalink: 
-excerpt: 'The role of biotic interactions in shaping species distributions is a cornerstone of biogeographic theory; yet, it remains elusive. Such interactions are more likely to have an influence on organisms with obligate associations, such as hosts and their parasites. Yet, the factors governing rates of parasitism along large environmental gradients, and the distribution of parasites, remains poorly studied. Whereas regional abiotic conditions may affect parasite geography in ways similar to free-living species, parasite distributions are also influenced by local abiotic conditions, characteristics of host individuals, and the availability of competent hosts in the broader community. Moreover, as host-parasite interactions often display phylogenetic structure, evolutionary history may further explain the geography of parasitism. Here, we used a hierarchical Bayesian model to examine the relative influence of these factors, operating across organization levels and spatiotemporal scales, on rates of parasitism along a broad-scale environmental gradient. We focus on parasitic water mites and their dragonfly and damselfly hosts. We found that rates of parasitism were, on average, lower in the boreal than in the temperate biome. Our model revealed that the decline in rates of parasitism was related to the high acidity of lakes in the boreal biome. Additionally, we found that the intensity of parasitism on individual hosts was strongly influenced by host species as well as evolutionary relationships among hosts. Most notably, several closely related genera of dragonflies located at the base of the phylogenetic tree had very few parasites. Taken together, our results imply that predicting zoonotic disease spread in a changing world will require models that integrate ecological and evolutionary processes operating across spatiotemporal scales and organization levels.'
-date: In revision (June 2020)
-venue: 'Functional Ecology'
+excerpt: 'Updating'
+date: 
+venue: ''
 paperurl: 
-citation: 'LoScerbo, D., Farrell, M., Arrowsmith, J., Mlynarek, J., Lessard, J. (In revision). &quot;Host evolutionary history and local abiotic conditions drive geographic variation in parasite intensity.&quot; <i> Functional Ecology</i>'
+citation: ''
 ---
