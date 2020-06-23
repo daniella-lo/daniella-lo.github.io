@@ -6,5 +6,5 @@ excerpt: 'The role of biotic interactions in shaping species distributions is a 
 date: In revision (June 2020)
 venue: 'Functional Ecology'
 paperurl: 
-citation: 'LoScerbo, D., Farrell, M., Arrowsmith, J., Mlynarek, J., Lessard, J. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'LoScerbo, D., Farrell, M., Arrowsmith, J., Mlynarek, J., Lessard, J. (In revision). &quot;Host evolutionary history and local abiotic conditions drive geographic variation in parasite intensity.&quot; <i> Functional Ecology</i>'
 ---
