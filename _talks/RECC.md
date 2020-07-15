@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2014-03-01-talk-3
 venue: "Road Ecology and Climate Change Conference"
-date: 2014-03-01
+date: 2017-03-01
 location: "Quebec City, QC"
 ---
 While the ability to move between habitats is critical for the viability of animal
