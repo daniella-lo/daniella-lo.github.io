@@ -107,9 +107,12 @@ Field work
   * Experience and confidence working in remote locations, year round
   *	CPR-C and Wilderness First Aid, certified March 2019
   * PADI Open Water, dry suit, certified Jan. 2020. 
-  ![](/images/clamgarden1.jpg){:height="50%" width="50%"}
-  ![](/images/odemite4.jpeg){:height="50%" width="50%"}
-  ![](/images/salmonecol4.jpg){:height="50%" width="50%"}
+  
+ ![](/images/clamgarden1.jpg){:height="50%" width="50%"}
+ 
+ ![](/images/odemite4.jpeg){:height="50%" width="50%"}
+ 
+ ![](/images/salmonecol4.jpg){:height="50%" width="50%"}
   
 Transportation
 ------
@@ -119,9 +122,11 @@ Transportation
 Laboratory analysis
 ------
   * Bio-energetics: Proximate constituent analysis of % lipid, water, carbohydrates and protein
-  * Enzyme activation: Assays of salmonid gill Na+ K+ ATPase. 
-  ![](/images/salmonecol5.jpg){:height="50%" width="50%"}
-  ![](/images/physiol4.jpg){:height="50%" width="50%"}
+  * Enzyme activation: Assays of salmonid gill Na+ K+ ATPase.
+ 
+ ![](/images/salmonecol5.jpg){:height="50%" width="50%"}
+ 
+ ![](/images/physiol4.jpg){:height="50%" width="50%"}
   
 Publications
 ======
@@ -133,12 +138,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
