@@ -39,6 +39,8 @@ In collaboration with Indigenous practitioners and researchers across the Pacifi
 
 Salmon Migration Physiology, Fraser River, BC, 2019
 ------
+D. Patterson, Environmental Watch Program, Department of Fisheries and Oceans, Canada 
+
 In response to the landslide within the Fraser River watershed, I was stationed at the Big Bar
 emergency response field station to monitor adult salmon physiological condition and migration
 success. Tasks included acoustic tagging of adult salmon, set-up and monitoring of receiver and
