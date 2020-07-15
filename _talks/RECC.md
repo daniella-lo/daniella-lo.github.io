@@ -2,7 +2,7 @@
 title: "Identification of wildlife corridors and passages either side of highway 10 (Estrie and Monteregie Est regions, Southern QC)"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/RECC.md
 venue: "Road Ecology and Climate Change Conference"
 date: 2017-03-01
 location: "Quebec City, QC"
