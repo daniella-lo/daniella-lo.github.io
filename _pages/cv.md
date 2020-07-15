@@ -132,7 +132,6 @@ Field work
  
  ![](/images/odemite4.jpeg){:height="50%" width="50%"}
  
- ![](/images/salmonecol4.jpg){:height="50%" width="50%"}
   
 Transportation
 ------
