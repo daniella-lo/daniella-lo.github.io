@@ -34,6 +34,16 @@ Dr. A. Salomon, Simon Fraser University, BC
 * In collaboration with Indigenous practitioners and researchers across the Pacific Ocean, our research group is documenting how traditional management and cultivation of sea gardens has lent to social-ecological resilience of the past and to inform present resource management.  
 
 ![](/images/fishpond.jpg){:height="50%" width="50%"}
+
+Salmon Migration Physiology, Fraser River, BC, 2019
+------
+In response to the landslide within the Fraser River watershed, I was stationed at the Big Bar
+emergency response field station to monitor adult salmon physiological condition and migration
+success. Tasks included acoustic tagging of adult salmon, set-up and monitoring of receiver and
+sonar stations, physiological sampling from salmon at site, such as blood and plasma extraction,
+fin clips for DNA, and whole-body lipid measurements. 
+
+![](/images/bigbar.jpeg){:height="50%" width="50%"}
   
 Biogeography of Odonate Parasitism, 2016 - 2018
 ------
