@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://daniella-lo.github.io/files/LoScerbo_CV_2020.pdf)
+
+
 Education
 ======
 * Master’s in Resource and Environmental Management, Simon Fraser University, BC, Sept. 2018 – present
