@@ -17,20 +17,20 @@ Current Projects
   
 Under what conditions are estuaries important for juvenile salmon performance and survival?
 -----
-Currently researching for Master's thesis at Simon Fraser University
+For my Master’s thesis, I am researching how the physiological condition of sockeye salmon smolts impacts swim ability and habitat selection throughout the downstream migration corridor, from lake to estuary to ocean.
 ![](/images/profile.jpg)
 
 Learning from Indigenous practices of sea garden management to inform Social-Ecological Resilience of modern coastal ecosystems
 -----
-Collaborating with Indigenous practitioners and researchers across the Pacific Ocean in a working group to connect, map and understant traditional practices and fisheries management.
+In collaboration with Indigenous practitioners and researchers across the Pacific Ocean, our research group is documenting how traditional management and cultivation of sea gardens has lent to social-ecological resilience of the past and to inform present resource management.
 ![](/images/clamgarden6.jpg)
 
 How does host evolutionary history, climate, and lake characteristics impact parasitism of dragonflies and damselflies?
 -----
-Revising manuscript for Journal of Animal Ecology
+Along with researchers from Unversity of Toronto, Concordia University, and the Insectarium de Montréal, we are investigating how regional climate, local biotic and abiotic factors, and attributes of the host species affected variation in parasite load among odonate individuals.
 ![](/images/odemite3.jpeg)
   
 Can humans and mammals share highway underpasses?
 -----
-Preparing manuscript for submission
+To understand how mammals can use existing underpassed to combat habitat fragmentation by highways, we monitored mammal use of culverts, roadways and train tunnels below a high traffic highway bisecting the essential wildlife corridor of the Northern Appalachian region, QC. This is a collaboration between Concordia University, the Ministry of Transport of Quebec and a non-profit conservation organization, Corridor Appalachian, 
 ![](/images/mammalcorridor4.JPG)
