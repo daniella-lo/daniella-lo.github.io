@@ -7,8 +7,6 @@ venue: "Road Ecology and Climate Change Conference"
 date: 2014-03-01
 location: "Quebec City, QC"
 ---
-Presentation of a parntership project to identify and protect wildlife corridors and passages either side of Highway 10 between km 68 (Granby) and km 143 (Sherbrooke) on Appalachian Corridor's territory of action in southern Quebec. (Co-presented with Caroline Daguet, Corridor Appalachian)
-
 While the ability to move between habitats is critical for the viability of animal
 populations, the spread of urbanization is continuously adding barriers within the natural
 landscape; the most pervasive of which is the construction of roads and highways. The
@@ -29,7 +27,9 @@ increase the use of all underpasses by wildlife include addition of a dry pathwa
 all culverts, highway fencing along mortality hotspots, and whenever possible, dedicated
 wildlife under/overpasses to increase the permeability of the highway to large mammals.
 
-![](/files/PassagesPoster_EN.pdf)
+(Co-presented with Caroline Daguet, Corridor Appalachian)
+
+![](/images/PassagesPoster_EN.pdf)
 
 [Plus d'information ici](http://www.corridorappalachien.ca/en/appalachian-corridor-and-partners-work-to-keep-wildlife-off-the-roads/)
 
