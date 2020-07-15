@@ -5,6 +5,8 @@ permalink: /posts/2020/07/Relations/
 tags:
   - fisheries
   - salmon
+  - British Columbia
+  - resilience
 ---
 I grew up along the Georgia Strait, where morning fog nestles between wrinkled red cedars and peeling arbutus, on the Indigenous lands of the Snuneymuxw, Stzuminus and Hul’qumi’num Treaty group. 
 ------
