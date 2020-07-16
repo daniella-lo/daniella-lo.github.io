@@ -118,7 +118,7 @@ Statistical Analysis and Data Visualization
   
 Field work
 ------
-  * Biological monitoring and sampling techniques for terrestrial, aquatic, and inter-tidal mammals, invertebrates and algae 
+  * Biological monitoring and sampling techniques for terrestrial and aquatic insects, juvenile salmon, and inter-tidal invertebrates and algae
   * Remote monitoring and identification of wildlife using infra-red and motion detection cameras
   * Environmental data collection of water chemistry, habitat calssifcation via dominant vegetation
   * Identification of terrestrial, aquatic, and inter-tidal invertebrates, bivalves, algae and salmonids
@@ -130,7 +130,7 @@ Field work
   
  ![](/images/clamgarden1.jpg){:height="50%" width="50%"}
  
- ![](/images/odemite4.jpeg){:height="50%" width="50%"}
+ ![](/images/odemite3.jpg){:height="50%" width="50%"}
  
   
 Transportation
@@ -143,7 +143,7 @@ Laboratory analysis
   * Bio-energetics: Proximate constituent analysis of % lipid, water, carbohydrates and protein
   * Enzyme activation: Assays of salmonid gill Na+ K+ ATPase.
  
- ![](/images/salmonecol5.jpg){:height="50%" width="50%"}
+ ![](/images/physiol3.jpg){:height="50%" width="50%"}
  
  ![](/images/physiol4.jpg){:height="50%" width="50%"}
   
