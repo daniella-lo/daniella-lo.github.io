@@ -21,5 +21,5 @@ d’utilisation des structures par les mammifères, ni n’augmentent leur avers
 structures dont la dimension permet les franchissements. Il est probable que d’autres covariables
 jouent un rôle important, telles que le niveau d’eau et le type de structure.
 
-![](/images/PassagesPoster_FR.pdf)
+[Voir l'affiche ici](http://daniella-lo.github.io/images/PassagesPoster_FR.pdf)
 
