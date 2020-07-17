@@ -36,4 +36,4 @@ Harvest is done adaptively and selectively, using a range of technologies that b
 
 For further reading on the topics of relations in ecology, I recommend [Decolonizing ecology](https://briarpatchmagazine.com/articles/view/decolonizing-ecology).
 
-To find out more about the land you're on, check out[Native-land.ca](https://native-land.ca/). 
+To find out more about the land you're on, check out [Native-land.ca](https://native-land.ca/). 
