@@ -21,4 +21,4 @@ coast of North America to address two questions:  1) How do estuaries support fi
 incorporated to guide estuary management and conservation to support estuary functions? This symposium will highlight novel findings related to fish use of 
 estuaries across a range of human impacts and the best practices for characterising the use of estuaries by fish species.
 
-[Presenter summaries and contact information for the virtual spring meeting can be found here] (https://fisheries.org/virtual-spring-conference-presentation-schedule/)
+[Presenter summaries and contact information for the virtual spring meeting can be found here](https://fisheries.org/virtual-spring-conference-presentation-schedule/)
