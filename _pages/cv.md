@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://daniella-lo.github.io/files/LoScerbo_CV_2020.pdf)
+[Download Daniella LoScerbo's CV here](http://daniella-lo.github.io/files/LoScerbo_CV_2020.pdf)
 
 
 Education
