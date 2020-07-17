@@ -29,7 +29,7 @@ wildlife under/overpasses to increase the permeability of the highway to large m
 
 (Co-presented with Caroline Daguet, Corridor Appalachian)
 
-[See the poster here](http://daniella-lo.github.io/images/PassagesPoster_EN.pdf)
+[See the poster for our work with wildlife passages here](http://daniella-lo.github.io/images/PassagesPoster_EN.pdf)
 
-[For more information on Corridor Appalachian](http://www.corridorappalachien.ca/en/appalachian-corridor-and-partners-work-to-keep-wildlife-off-the-roads/)
+[Click here for more information on Corridor Appalachian](http://www.corridorappalachien.ca/en/appalachian-corridor-and-partners-work-to-keep-wildlife-off-the-roads/)
 
