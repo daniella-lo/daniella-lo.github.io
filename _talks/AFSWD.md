@@ -1,7 +1,7 @@
 ---
 title: "West coast estuaries as critical fish habitat: from ecological complexity to management"
 collection: talks
-type: "Symposium co-host"
+type: "Symposium Co-host"
 permalink: /talks/AFSWD
 venue: "American Fisheries Science - Virtual Spring Conference"
 date: 2020-04-30
