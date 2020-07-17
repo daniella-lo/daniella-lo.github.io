@@ -35,6 +35,6 @@ Along with researchers from Unversity of Toronto, Concordia University, and the 
   
 Can humans and mammals share highway underpasses?
 -----
-To understand how mammals can use existing underpasses to combat habitat fragmentation by highways, we monitored mammal use of culverts, roadways and train tunnels below a high traffic highway that bisects an essential wildlife corridor of the Northern Appalachian region, QC. This is a collaboration between Concordia University, the Ministry of Transport of Quebec and a non-profit conservation organization, Corridor Appalachien, 
+To understand how mammals can use existing underpasses to combat habitat fragmentation by highways, we monitored mammal use of culverts, roadways and train tunnels below a high traffic highway that bisects an essential wildlife corridor of the Northern Appalachian region, QC. This is a collaboration between Concordia University, the Ministry of Transport of Quebec and a non-profit conservation organization, Corridor Appalachien.
 
 ![](/images/mammalcorridor4.JPG)
