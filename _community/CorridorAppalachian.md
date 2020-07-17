@@ -1,6 +1,6 @@
 ---
 title: "Appalachian Corridor / Corridor Appalachien"
-excerpt: "Appalachian Corridor is a non-profit conservation organization founded in 2002 with a mission to protect natural areas in the Appalachian region of Southern Québec."
+excerpt: "Appalachian Corridor is a non-profit conservation organization founded in 2002 with a mission to protect natural areas in the Appalachian region of Southern Québec.
 <br/><img src='/images/corrapp.png'>"
 collection: community
 ---
