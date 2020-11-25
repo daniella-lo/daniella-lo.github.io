@@ -1,10 +1,10 @@
 ---
-title: "Species-specific attributes of the host and local abiotic conditions jointly drive geographic variation in parasite intensity"
+title: "Phylogenetically conserved host traits and local abiotic conditions jointly drive the geography of parasite intensity"
 collection: publications
 permalink: /publication/2020
-excerpt: 'In revision'
-date: 2020-01-01
+excerpt: 'The role of biotic interactions in shaping species distributions is a cornerstone of biogeographic theory; yet, it remains elusive. Such interactions are more likely to have an influence on organisms with obligate associations, such as hosts and their parasites. Whereas abiotic conditions may affect the abundance and distribution of parasites in ways similar to free-living species, attributes of the host could also play a part. Here, we focus on parasitic water mites and their dragonfly and damselfly hosts, and use a hierarchical Bayesian model to examine the relative influence of the abiotic environment and biotic factors such as local host community structure and individual host characteristics on parasite intensity along a broad-scale environmental gradient. Specifically, we assessed how climate, surrounding vegetation, water chemistry, host community structure as well as the relative abundance and body mass of host species affected the intensity of parasitism on individual hosts along a latitudinal gradient. We found that water chemistry and body mass of the host were the best predictors of variation in parasite intensity among hosts. High parasite intensity was observed in hosts sampled from lakes with high pH, dissolved oxygen and conductivity. Additionally, we found that the intensity of parasitism was strongly influenced by host species identity. In particular, body mass, which shows strong phylogenetic signal, was negatively related to parasite intensity. It may be that larger species, or individuals within species, are more immune to high level of parasitism and/or body mass is correlated with other traits of the host which relate to immunity. Considering both the abiotic environment and attributes of host species is necessary to understand why certain host individuals and locations exhibit more intense parasitism. Amid widespread decline of insect populations world-wide, some of which are attributed to pathogens and parasites, models predicting rates of parasitism in space and time could become an essential tool for guiding management and conservation efforts. A free Plain Language Summary can be found within the Supporting Information of this article.'
+date: 2020-10-15
 venue: 'Functional Ecology'
-paperurl: ''
-citation: 'LoScerbo et al. (2020). &quot;Species-specific attributes of the host and local abiotic conditions jointly drive geographic variation in parasite intensity.&quot; <i>Functional Ecology</i>. In revision.'
+paperurl: 'https://doi.org/10.1111/1365-2435.13698'
+citation: 'LoScerbo et al. (2020). &quot;Phylogenetically conserved host traits and local abiotic conditions jointly drive the geography of parasite intensity.&quot; <i>Functional Ecology</i>.'
 ---
