@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-CAN"
-title                    : "Daniella LoScerbo / MRM Candidate, BSc"
+title                    : "MRM Candidate, BSc"
 title_separator          : "-"
-name                     : &name "Daniella"
-description              : &description "MRM student untangling how estuaries play a role in juvenile salmon migration and future survival."
+name                     : &name "Daniella LoScerbo"
+description              : &description  "MRM student untangling how behaviour and physiology play a role in juvenile salmon migration and performance."
 url                      : https://daniella-lo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniella-lo/daniella-lo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daniella LoScerbo"
   avatar           : "profile.jpg"
-  bio              : "MRM student untangling how estuaries play a role in juvenile salmon migration and future survival."
+  bio              : "MRM student untangling how behaviour and physiology play a role in juvenile salmon migration and performance."
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : 
